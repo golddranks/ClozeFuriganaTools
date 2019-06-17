@@ -1,6 +1,7 @@
 # ClozeFuriganaTools
 Anki add-on: Cloze Furigana Tools. Also available here: https://ankiweb.net/shared/info/1263365841
-**Note:** This add-on only supports Anki 2.0 plugin format. I haven't got the time to maintain the plugin anymore. I welcome forks of this plugin, provided that they respect the license and credit the original.
+
+**Note: This add-on only supports Anki 2.0 plugin format. I haven't got the time to maintain the plugin anymore. I welcome forks of this plugin, provided that they respect the license and credit the original.**
 
 ## Description
 
